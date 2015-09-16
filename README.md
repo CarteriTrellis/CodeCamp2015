@@ -1,4 +1,4 @@
-# CodeCamp2015
+# Seattle Code Camp 2015
 Slides, the as-prepared script, and code samples for "Their Exits and Their Entrances: Actors in the .NET Framework"
 
 Before running the code samples, please check out the file "Software Instructions" in the docs directory.
